@@ -1,0 +1,14 @@
+Dear Team,
+I recently came across your notification, and I am interested in applying for the position of Software Test Engineer-Automation(Selenium, java)
+
+I have a total of 3.1 years of experience in software testing, I am responsible for functional and non-functional testing, and I know UNIX, Mysql, JIRA tool, API Testing using POSTMAN, SoapUI tool, and REST Assured.
+
+I am using selenium WebDriver with java, maven, DDF, and Testng framework in automation testing.
+
+Please take a minute to go through the attached resume for your consideration. It would be a pleasure if I can hear back from you regarding my job application.
+
+Yours Faithfully,
+Pritam Hedau
+9172612015
+
+
